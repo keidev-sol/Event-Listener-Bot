@@ -78,7 +78,8 @@ MPA is structured around **decoupled worker processes** communicating via **Rabb
 
 ---
 
-![Worker Flow](./diagram-workerflow.png)  
+<img width="591" height="500" alt="Screenshot 2025-10-21 045629" src="https://github.com/user-attachments/assets/85b8e76e-fb61-4664-8961-341df7ce618d" />
+
 *Initializer and Monitor Worker data flow and queue reprocessing loop.*
 
 ---
